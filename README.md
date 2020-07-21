@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi stranger 🌱</h1>
+<p align="center">Nina // Web Dev JS // Teacher assistant // Paris, France</p>
 
-<!--
-**Gorlanova/Gorlanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif?itemid=5588862" alt="cute cat animation" height="300" width="300"/>
 
-Here are some ideas to get you started:
+<br/>
+<h3 align="center">Who dis ?</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front end dev (React & React Native)
+- Back end dev (Node & Express)
+- Absolute CSS lover and UX-UI curious
+- Co-creator of [mission-climat](https://mission-climat.io)
+- Casual coriander hater
+- Open to work on cool projects
+
+<br/>
+<p align="center">Come check my <a href="https://www.linkedin.com/in/ninagautreau/">linkedin</a> !</p>
