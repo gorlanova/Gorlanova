@@ -12,6 +12,3 @@
 - Likes to build pretty, accessible, performant things
 - Co-creator of [mission-climat](https://mission-climat.io)
 - Casual coriander hater
-
-<br/>
-<p align="center">Come check my <a href="https://www.linkedin.com/in/ninagautreau/">linkedin</a> !</p>
