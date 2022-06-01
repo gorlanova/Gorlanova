@@ -1,14 +1,17 @@
-<h1 align="center">Hi stranger 🌱</h1>
-<p align="center">Nina // Web Dev // Paris, France</p>
+# 🌞 Hello
 
-<img align="right" src="https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif?itemid=5588862" alt="cute cat animation" height="300" width="300"/>
+<img align="right" src="https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif?itemid=5588862" alt="cute cat animation"/>
 
-<br/>
-<h3 align="center">Who dis ?</h3>
+I'm Nina, a web developper working from Paris, France.
 
-- Front end (React, Vue, Next & React Native)
-- Back end (Node, Express & Mongodb)
-- Absolute CSS lover and UX-UI curious
-- Likes to build pretty, accessible, performant things
-- Co-creator of [mission-climat](https://mission-climat.io)
+### Skills
+- In love with **Vite**, **Vue** and **Pinia**.
+- Huge CSS nerd, A11y advocate and UX-UI driven
+
+### Work
+- Building cool things @[Decrypt](https://decrypt.blue)
+- Saving the planet @[mission-climat](https://mission-climat.io)
+
+### Good to know
 - Casual coriander hater
+- Cats > Dogs
