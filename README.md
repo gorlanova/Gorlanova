@@ -9,9 +9,11 @@ I'm Nina, a web developper working from Paris, France.
 - Huge CSS nerd, A11y advocate and UX-UI driven
 
 ### Work
-- Building cool things @[Decrypt](https://decrypt.blue)
-- Saving the planet @[mission-climat](https://mission-climat.io)
+- Building cool things [@Decrypt](https://decrypt.blue)
+- Saving the planet [@mission-climat](https://mission-climat.io)
 
 ### Good to know
 - Casual coriander hater
 - Cats > Dogs
+
+[![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorlanova&include_all_commits&count_private=true&show_icons=true&theme=nord&bg_color=45,2e3440,000000)](https://github.com/anuraghazra/github-readme-stats)
