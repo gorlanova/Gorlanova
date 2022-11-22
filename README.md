@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif?itemid=5588862" alt="cute cat animation"/>
 
-I'm Nina, a web developper working from Paris, France.
+I'm Nina, a front-end dev
 
 ### Skills
 - In love with **Vite**, **Vue** and **Pinia**.
@@ -10,7 +10,6 @@ I'm Nina, a web developper working from Paris, France.
 
 ### Work
 - Building cool things [@Decrypt](https://decrypt.blue)
-- Saving the planet [@mission-climat](https://mission-climat.io)
 
 ### Good to know
 - Casual coriander hater
