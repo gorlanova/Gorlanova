@@ -15,6 +15,6 @@ I'm Nina, a front-end dev
 - Casual coriander hater
 - Cats > Dogs
 
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif?itemid=5588862');]{x0000}$}
+\ce{$\unicode[background-image: url('https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif?itemid=5588862');]{x0000}$}
+```
