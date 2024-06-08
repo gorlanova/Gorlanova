@@ -24,6 +24,6 @@ z-index: -1;
 position: fixed;
 inset:0;
 opacity: 1.0;
-background: url('https://media1.tenor.com/images/551d452e9eb7377fd4d189bf905a61f3/tenor.gif?itemid=5588862');
+background: url('https://c.tenor.com/3HrcAdrKXigAAAAC/tenor.gif');
 "]{}
 ```
