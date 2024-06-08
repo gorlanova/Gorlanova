@@ -24,6 +24,6 @@ z-index: -1;
 position: fixed;
 inset:0;
 opacity: 1.0;
-background: url('https://c.tenor.com/3HrcAdrKXigAAAAC/tenor.gif');
+background: url('https://github.com/gorlanova/gorlanova/tenor.gif');
 "]{}
 ```
